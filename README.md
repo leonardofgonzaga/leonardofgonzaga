@@ -1,4 +1,7 @@
 ### Olá, eu sou o Leonardo Gonzaga! 👋
+<div>
+  🎓 &nbsp Estudante de Gestão da Tecnologia da Informação <br>
+</div>
 
 ##
 
