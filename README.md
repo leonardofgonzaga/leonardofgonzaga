@@ -29,7 +29,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofgonzaga&hide_progress=true)
 
 <div align="center">
-  <img src="https://www.redwolf.in/image/catalog/stickers/may-the-force-be-with-you-sticker-india.jpg" > 
+  <img src="https://www.redwolf.in/image/catalog/stickers/may-the-force-be-with-you-sticker-india.jpg" height="50px"> 
 </div>
 
 
