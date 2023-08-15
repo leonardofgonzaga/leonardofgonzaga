@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <img src="https://www.redwolf.in/image/catalog/stickers/may-the-force-be-with-you-sticker-india.jpg" height="100px"> 
+  <img src="https://www.redwolf.in/image/catalog/stickers/may-the-force-be-with-you-sticker-india.jpg" height="150px"> 
 </div>
 
 
