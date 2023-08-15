@@ -1,9 +1,14 @@
-# Olá, eu sou o Leonardo Gonzaga! 👋
-<div>
-  🎓 &nbsp Estudante de Gestão da Tecnologia da Informação <br>
-</div>
+# Olá, eu sou [Leonardo Gonzaga](https://github.com/leonardofgonzaga/)! 👋
 
-##
+👨🏻‍💻 Desenvolvedor Full Stack
+🎓 Graduado em Gestão da Tecnologia da Informação
+🌱 Sempre aprendendo algo novo
+📖 Leitor nas horas vagas
+☕ Cafezeiro 
+
+## Contato 📮
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ferreira-gonzaga/)
 
 <div>
   <a href="https://beacons.ai/leonardofgonzaga">
