@@ -26,7 +26,9 @@
 ## Github Stats 📈
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardofgonzaga&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofgonzaga&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+![leonardofgonzaga's Stats](https://github-readme-stats.vercel.app/api?username=leonardofgonzaga&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <div align="center">
   <img src="https://www.redwolf.in/image/catalog/stickers/may-the-force-be-with-you-sticker-india.jpg" height="50px"> 
