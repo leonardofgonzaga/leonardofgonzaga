@@ -1,37 +1,32 @@
 # Olá, eu sou [Leonardo Gonzaga](https://github.com/leonardofgonzaga/)! 👋
 
--👨🏻‍💻 Desenvolvedor Full Stack
-🎓 Graduado em Gestão da Tecnologia da Informação
-🌱 Sempre aprendendo algo novo
-📖 Leitor nas horas vagas
-☕ Cafezeiro 
+-👨🏻‍💻 Desenvolvedor Full Stack <br>
+🎓 Graduado em Gestão da Tecnologia da Informação <br>
+🌱 Sempre aprendendo algo novo <br>
+📖 Leitor nas horas vagas <br>
+☕ Cafezeiro <br>
 
 ## Contato 📮
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ferreira-gonzaga/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]
+(https://www.instagram.com/self.__leo/)
 
-<div>
-  <a href="https://beacons.ai/leonardofgonzaga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardofgonzaga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofgonzaga&layout=compact&langs_count=16&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp
-  <img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp
-  <img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> &nbsp
-  <img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp  
-  <img align="center" alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"> &nbsp 
-  <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> &nbsp
-  <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
+## Tecnologias e Ferramentas 💻
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-  ##
+
   
- <div>
-  <a href="https://www.linkedin.com/in/leonardo-ferreira-gonzaga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-    
-   ![Snake animation](https://github.com/leonardofgonzaga/leonardofgonzaga/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+
 
  
