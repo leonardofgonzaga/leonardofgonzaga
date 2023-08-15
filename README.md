@@ -1,6 +1,6 @@
 # Olá, eu sou [Leonardo Gonzaga](https://github.com/leonardofgonzaga/)! 👋
 
-👨🏻‍💻 Desenvolvedor Full Stack
+-👨🏻‍💻 Desenvolvedor Full Stack
 🎓 Graduado em Gestão da Tecnologia da Informação
 🌱 Sempre aprendendo algo novo
 📖 Leitor nas horas vagas
