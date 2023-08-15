@@ -23,13 +23,14 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Github Stats
+## Github Stats 📈
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardofgonzaga&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofgonzaga&hide_progress=true)
 
-
-  
+<div align="center">
+  <img src="https://www.redwolf.in/image/catalog/stickers/may-the-force-be-with-you-sticker-india.jpg" > 
+</div>
 
 
 
